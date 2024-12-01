@@ -11,3 +11,6 @@ _skbuild/
 __pycache__/
 dist/
 wheelhouse/
+
+# Sphinx documentation
+_build/
